@@ -18,3 +18,6 @@ const App = props => {
 };
 
 export default App;
+
+
+//practicing redux first than come to module 25
