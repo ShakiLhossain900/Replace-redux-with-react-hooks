@@ -20,5 +20,7 @@ const App = props => {
 export default App;
 
 
-//replace redux can use context api
+//replace redux can use context-api
+// custom store akhon lagbe na future jodi need hoy  tahole use korbu.
+
 
