@@ -20,5 +20,5 @@ const App = props => {
 export default App;
 
 
-//practicing redux first than come to module 25
-//woking in react redux basic practice project with max
+//replace redux can use context api
+
